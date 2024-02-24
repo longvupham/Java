@@ -1,4 +1,4 @@
-public class bai2 {
+public class out20songuyento {
     public static void main(String[] args) {
         System.out.println("20 số nguyên đầu tiên: ");
         for (int i = 2, count = 0; count < 20; i++) {
