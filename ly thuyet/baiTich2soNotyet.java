@@ -1,6 +1,8 @@
+package ly
+
 import java.util.Scanner;
 
-public class Hamjs {
+public class baiTich2soNotyet {
     public static void main(String[] args) {
         // viết 1 hàm nhận vào a và b, trả về tích các số từ a đến b, gọi hàm
         Scanner sc = new Scanner(System.in);

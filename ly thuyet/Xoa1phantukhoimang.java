@@ -1,6 +1,8 @@
+package ly
+
 import java.util.Scanner;
 
-public class xoa1phantukhoimang {
+public class Xoa1phantukhoimang {
     public static void main(String[] args) {
         int[] arr = {10, 4, 6, 7, 8, 6, 0, 0, 0, 0};
         System.out.println("Mảng ban đầu gồm các phần tử sau: ");

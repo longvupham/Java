@@ -1,3 +1,5 @@
+package ly
+
 public class out20songuyento {
     public static void main(String[] args) {
         System.out.println("20 số nguyên đầu tiên: ");

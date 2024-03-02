@@ -1,3 +1,5 @@
+package ly
+
 import java.util.Scanner;
 
 public class arr1arr2thanharr3 {
