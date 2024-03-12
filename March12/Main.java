@@ -35,9 +35,14 @@ public class Main {
                 System.out.println("Type FullName: ");
                 scanner.nextLine();
                 String fullName = scanner.nextLine();
+                boolean found=false;
                 for (int i = 0; i < list.size(); i++) {
                     if (list.get(i).getFullName().equals(fullName)) {
                         System.out.println(list.get(i));
+                    }
+                    if (found=true){
+                        System.out.println("FullName's not available");
+                        break;
                     }
                 }
             }
